@@ -2,13 +2,14 @@
 
 **Installing VScode**
 
-The first thing to do is to install VScode onto your computer. Go to  https://code.visualstudio.com/ , and click the download button for your OS.
+The first thing to do is to install VScode onto your computer. Go to [Link](https://code.visualstudio.com/), and click the download button for your OS.
 Once you've installed it, open the program; you should open to a window that looks like this: ![image](ss1vscode.png)
 VScode will be program we use to write and work with code, when we are not using the terminal.
 
 **Remotely Connecting**
 
 There are couple steps to remotely connecting to your CS15l account.
+
 1) Install OpenSSH **DO ONLY IF ON WINDOWS**
 * Go to Settings > Apps, then click "Optional Features"
 * Search the list of installed features for "OpenSSH Client". If it isn't there, install it. ![image](ss2openssh.png)
@@ -21,6 +22,7 @@ There are couple steps to remotely connecting to your CS15l account.
 * If you're prompted to continue connecting, type "yes".
 
 After that, you should be in! It looks something like this ![image](ss3remotelogin.png)
+
 (If yours looks a little different that's okay, I'm using UCSD Cloudlabs and not Visual Studio terminal)
 
 **Trying Some Commands**
@@ -35,9 +37,10 @@ You can try some commands on both your remote session and computer to see the di
 
 `exit` - ends the remote session
 
-a more comprehensive list of terminal commands can be found here: https://mally.stanford.edu/~sr/computing/basic-unix.html
+a more comprehensive list of terminal commands can be found here: [Link](https://mally.stanford.edu/~sr/computing/basic-unix.html)
 
 ![image](ss4somecommands.png)
+
 **Moving Files with scp**
 
 What is scp? SCP is a way to move a file from the host computer (your computer) to the remote computer. 
@@ -52,7 +55,8 @@ To demonstrate this, on **your client**, create a file called `WhereAmI.java` wi
             System.out.println(System.getProperty("user.dir"));
         }
     }
-Use the commands
+
+Use the commands:
 
 `javac WhereAmI.java`
 
