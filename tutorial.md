@@ -6,9 +6,26 @@ The first thing to do is to install VScode onto your computer. Go to [Link](http
 Once you've installed it, open the program; you should open to a window that looks like this: ![image](ss1vscode.png)
 VScode will be program we use to write and work with code, when we are not using the terminal.
 
+**Find your CSE15L Account Resetting UCSD Password**
+
+Before you can connect to your CSE15L account, you will need to find you account and you will most likely have to reset your password.
+
+1) Find your CS15L account here: [Link](https://sdacs.ucsd.edu/~icc/index.php)
+
+2) Insert your Username and Student ID in the section "Account Lookup" and click submit.
+
+3) You should arrive at a page that looks like this: ![image](ss8acccountlookup.png)
+After this, you should click the button that starts with "cs15lfa22", then click the link "change your password" in the following page.
+
+4) You should arrive at a page called "Global Password Change Request". If you don't know your current password, click on the link at the bottom of the page, whicch will e-mail you password reset, then come back to this step.
+Type in your current password and your new passwords. 
+Two things to note: First, **Do not click the "check password" button.** Once you are done, simple click on the bottommost text field, "confirm new password" and type the "Enter" key. Second, **Come up with a password that is atleast 15 characters.** This is a tip I receieved from the IT Desk. Ignore the field that says 7-30 characters. 
+5) Wait 15 - 60 minutes. You can continue to the next step and try SSH using Terminal in Remotely Connecting, step 2 to verify if your password change was successful.
+
+
 **Remotely Connecting**
 
-There are couple steps to remotely connecting to your CS15l account.
+There are couple steps to remotely connecting to your CSE15L account.
 
 1) Install OpenSSH **DO ONLY IF ON WINDOWS**
 * Go to Settings > Apps, then click "Optional Features"
