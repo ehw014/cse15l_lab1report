@@ -14,7 +14,7 @@ Before you can connect to your CSE15L account, you will need to find you account
 
 2) Insert your Username and Student ID in the section "Account Lookup" and click submit.
 
-3) You should arrive at a page that looks like this: ![image](ss8acccountlookup.png)
+3) You should arrive at a page that looks like this: ![image](ss8accountlookup.png)
 
 After this, you should click the button that starts with "cs15lfa22", then click the link "change your password" in the following page.
 
