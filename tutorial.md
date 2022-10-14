@@ -15,11 +15,14 @@ Before you can connect to your CSE15L account, you will need to find you account
 2) Insert your Username and Student ID in the section "Account Lookup" and click submit.
 
 3) You should arrive at a page that looks like this: ![image](ss8acccountlookup.png)
+
 After this, you should click the button that starts with "cs15lfa22", then click the link "change your password" in the following page.
 
 4) You should arrive at a page called "Global Password Change Request". If you don't know your current password, click on the link at the bottom of the page, whicch will e-mail you password reset, then come back to this step.
 Type in your current password and your new passwords. 
-Two things to note: First, **Do not click the "check password" button.** Once you are done, simple click on the bottommost text field, "confirm new password" and type the "Enter" key. Second, **Come up with a password that is atleast 15 characters.** This is a tip I receieved from the IT Desk. Ignore the field that says 7-30 characters. 
+
+Two things to note: First, **Do not click the "check password" button.** Once you are done, simple click on the bottommost text field, "confirm new password" and type the "Enter" key. Second, **Come up with a password that is at least 15 characters.** This is a tip I receieved from the IT Desk. Ignore the field that says 7-30 characters.
+
 5) Wait 15 - 60 minutes. You can continue to the next step and try SSH using Terminal in Remotely Connecting, step 2 to verify if your password change was successful.
 
 
